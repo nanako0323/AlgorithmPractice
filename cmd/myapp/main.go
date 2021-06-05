@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	log.Println(basic.NotLoopPow(2, 2))
+	log.Println(basic.LoopPow(2, 2))
 }
